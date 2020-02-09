@@ -1,0 +1,48 @@
+* {
+    margin: 20px;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+  /* common styles */
+  .cm {
+    margin: 20px 15px;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+  /* join our community styles */
+  .joc {
+    /* background-color: snow; */
+  }
+  .joc h1 {
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 1.3rem;
+  }
+  .joc h2 {
+    color: hsla(71, 73%, 54%, 0.856);
+    margin-bottom: 1.3rem;
+  }
+  .joc p {
+    max-width: 95%;
+    color: rgb(172, 171, 171);
+  }
+
+  .ms h2 {
+    color: hsla(203,44%,93%,0.849)
+ }
+
+ .ms  p {
+    color:#ccc
+ }
+
+ .ms button {
+padding: 5px 80px 5px 80px;
+    background-color: hsl(71,73%,54%)
+
+
+ .wu p {
+    color: hsla(203,44%,93%,0.822)
+ }
